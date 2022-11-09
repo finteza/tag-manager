@@ -15,5 +15,5 @@
 homepage: "https://www.finteza.com"
 documentation: "https://www.finteza.com/en/integrations/google-tag-manager"
 versions:
-  - sha: (In GitHub, find the commit that includes the changes that you want to push for your initial version of your template and copy the SHA number)
+  - sha: 87aed80c9192ce4591dc05af53c7122247547cba
     changeNotes: Initial release.
