@@ -15,5 +15,5 @@
 homepage: "https://www.finteza.com"
 documentation: "https://www.finteza.com/en/integrations/google-tag-manager"
 versions:
-  - sha: 87aed80c9192ce4591dc05af53c7122247547cba
+  - sha: 18946cf4db88e7c3a63f4c6cab555999dbd3f519
     changeNotes: Initial release.
